@@ -1,10 +1,5 @@
 hey i am pushing
 <<<<<<< HEAD
-
-
-
-
-sorry the code was reverted
-=======
 ok done
+these is now fixed
 >>>>>>> 64c686be0ea87ffee1ad980207a2c79bc7d417c4

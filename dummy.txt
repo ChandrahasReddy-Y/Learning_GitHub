@@ -2,3 +2,6 @@ here i am dumpping all depricated stuff for futher reference
 
 
 i am informing you all it is only for depricated stuff
+
+
+from developer ic side noted Rpm is depricated

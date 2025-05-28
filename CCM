@@ -1,0 +1,8 @@
+these is my code to fix CCM
+
+def CCM():
+  no = 181
+  print("These is warning sign")
+
+
+CCM()
